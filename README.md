@@ -5,7 +5,7 @@ Pada project membuuat batch processing dengan proses insert, copy dan table_from
 - file main_copy.py adalah insert data menggunakan metode copy
 - file main_insert.y adalah insert data menggunakan metode insert
 - file read.py adalah file yang digunakan untuk melihat hasil insert data
-- file .csv adalah file yang digunakan untuk sumber insert data
+- file .csv adalah file yang digunakan untuk sumber data
 
 step :
 1. insert data pada postgresql
